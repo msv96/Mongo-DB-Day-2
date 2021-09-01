@@ -1,6 +1,6 @@
 # Mongo-DB-Day-2
 
-## Task - 1
+## Task - 2
 
 **Q: Find all the topics and tasks which are thought in the month of October**
 
